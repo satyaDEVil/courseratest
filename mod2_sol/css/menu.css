@@ -87,6 +87,15 @@ h1 {
 
 @media (min-width: 0px) and (max-width: 767px)
 {
+	.content_holder{
+		
+  border: 1px solid black;
+  
+  height: 150px;
+  
+  
+  font-family: Helvetica;
+	}
 	.content {
 		border: 1px solid black;
 	}
